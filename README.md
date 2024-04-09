@@ -7,7 +7,7 @@
 
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godzuche)](https://github.com/godzuche/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=godzuche&count_private=true&show_icons=true&theme=dark)](https://github.com/godzuche/github-readme-stats)
 
 <!---
 Godzuche/Godzuche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
