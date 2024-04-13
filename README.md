@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godzuche&count_private=true&show_icons=true&theme=dark)](https://github.com/godzuche/github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=godzuche&count_private=true&show_icons=true&theme=dark" alt="Anurag's GitHub stats" />
 </p>
 <br />
 
