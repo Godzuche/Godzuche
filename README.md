@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 --->
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=godzuche&count_private=trueshow_icons=true&theme=dark" alt="Anurag's GitHub stats" />
